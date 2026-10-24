@@ -1,0 +1,10 @@
+{
+    "name": "scriptorium",
+    "version": "0.1.0",
+    "private": true,
+    "type": "module",
+    "description": "Read-only world book mirror for SillyTavern with read/grep tools",
+    "scripts": {
+        "test": "node --test \"test/**/*.test.js\""
+    }
+}
